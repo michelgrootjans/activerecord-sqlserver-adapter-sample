@@ -5,6 +5,7 @@ gem 'rails', '3.2.11'
 gem 'sqlite3'
 gem 'tiny_tds'
 gem 'activerecord-sqlserver-adapter'
+#gem 'activerecord-sqlserver-adapter', git: "https://github.com/michelgrootjans/activerecord-sqlserver-adapter.git"
 
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
