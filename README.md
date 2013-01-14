@@ -1,0 +1,2 @@
+activerecord-sqlserver-adapter-sample
+=====================================
